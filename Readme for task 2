@@ -1,0 +1,3 @@
+#CodingRajaTechnologies TASK 2 Prize Optimization: Analyzing sales and pricing data to determine optimal price point for products or services ,in order to increase revenue and profit. 
+you can use regression models like linear regression or logistic regression  and evaluate model using metrics like RMSE or R squared.
+So,here i have performed Prize Optimization on BOSTON HOUSING DATASET using Linear Regression and Metrics using R Square.
